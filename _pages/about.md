@@ -28,47 +28,47 @@ PEOPLE
 ======
 <h2>PhD students</h2>
 <div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; justify-content: start;">
-  <div style="text-align: center; padding: 20px;">
+  <div style="text-align: center;">
     <img src="images/spx.jpg" alt="Pengxiang Su" style="display: block; width: auto; height: auto;"/>
     <figcaption>Pengxiang Su</figcaption>
   </div>
-  <div style="text-align: center; padding: 20px;">
+  <div style="text-align: center;">
     <img src="images/hwh.jpg" alt="Weihua Huan" style="display: block; width: auto; height: auto;"/>
     <figcaption>Weihua Huan</figcaption>
   </div>
-  <div style="text-align: center; padding: 20px;">
+  <div style="text-align: center;;">
     <img src="images/hch.jpg" alt="Chenghu He" style="display: block; width: auto; height: auto;"/>
     <figcaption>Chenghu He</figcaption>
   </div>
-  <div style="text-align: center; padding: 20px;">
+  <div style="text-align: center;">
     <img src="images/lsj.jpg" alt="Shijun Lu" style="display: block; width: auto; height: auto;"/>
     <figcaption>Shijun Lu</figcaption>
   </div>
 </div>
 
 <h2>Master students</h2>
-<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; justify-content: start; padding:20px">
-  <div style="text-align: center; padding: 20px;">
+<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; justify-content: start;">
+  <div style="text-align: center;">
     <img src="images/zyj.jpg" alt="Yanjie Zhang" style="display: block; width: auto; height: auto;"/>
     <figcaption>Yanjie Zhang</figcaption>
   </div>
-  <div style="text-align: center; padding: 20px;">
+  <div style="text-align: center;">
     <img src="images/chy.jpg" alt="Huangying Chen" style="display: block; width: auto; height: auto;"/>
     <figcaption>Huanying Chen</figcaption>
   </div>
-  <div style="text-align: center; padding: 20px;">
+  <div style="text-align: center;">
     <img src="images/czy.jpg" alt="Zhaoyang Chen" style="display: block; width: auto; height: auto;"/>
     <figcaption>Zhaoyang Chen</figcaption>
   </div>
-  <div style="text-align: center; padding: 20px;">
+  <div style="text-align: center;">
     <img src="images/fhr.jpg" alt="Haoran Fang" style="display: block; width: auto; height: auto;"/>
     <figcaption>Haoran Fang</figcaption>
   </div>
-  <div style="text-align: center; padding: 20px;">
+  <div style="text-align: center;">
     <img src="images/xyf.jpg" alt="Yifan Xu" style="display: block; width: auto; height: auto;"/>
     <figcaption>Yifan Xu</figcaption>
   </div>
-  <div style="text-align: center; padding: 20px;">
+  <div style="text-align: center;">
     <img src="images/lzh.jpg" alt="Zehan Lin" style="display: block; width: auto; height: auto;"/>
     <figcaption>Zehan Lin</figcaption>
   </div>
