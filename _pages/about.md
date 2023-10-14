@@ -13,41 +13,73 @@ How can spatial big data as a tool help us better understand urban dynamics and 
 
 I am Professor at the [Tongji University](https://celiang.tongji.edu.cn/info/1300/2388.htm) in Shanghai, China, and Adjunct Professor at [Ryerson University](https://www.ryerson.ca/), Toronto, Canada. My research interests lie at the intersection of GIScience, geography, computer science and computational social science, focusing on using GIS, geospatial big data and new sensing technologies to progress the understanding of the mechanism of the interaction between human activities, urban transportation and social events. I am the Chair of [ISPRS WG IV/6 - Human Behaviour and Sptial Interactions](https://www2.isprs.org/commissions/comm4/wg6/). I serve as Associate Editor for [ISPRS IJGI](https://www.mdpi.com/journal/ijgi).
 
-A data-driven personal website
+From 2016 to 2018, I was Planner at the Ministry of Transportation Ontario, Canada. I did my postdoc training in the [GIScience Research Group](https://www.geog.uni-heidelberg.de/gis/index_en.html), Institute of Geography at Heidelberg University, Germany between 2016 and 2018. Prior to Heidelberg, I received my PhD degree in Civil Engineering (Geomatics stream) from [Ryerson University](https://www.ryerson.ca/), Toronto, Canada in 2016. I received my master’s degree in Geographical Information Science (GIS) from Peking University and Central South University in 2011 and my bachelor’s degree in Computer Science and Technology from Beijing University of Chemical and Technology in 2008.
+
+NEWS
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- 2023: Pengxiang Su Won The 2023 ISPRS Geospatial Week Best Presentation Award.
+- 2023.9:Chenghu He and Shijun Lu joined the group as PhD students, and Haoran Fang, Yifan Xu and Zehan Lin joined the group as Master students. Welcome!
+- 2022.9: Pengxiang and Weihua joined the group as PhD students, and Huanying and Zhaoyang joined the group as Master students. Welcome!
+- 2022.6: Pengxiang Su and Huangying Chen successfully defended their Bachelor thesis. Congratulations! Pengxiang and Huanying will join the team as a PhD student and a Master student in Fall, respectively!
+- 2021.8: Dr. Huang received an NSFC Grant. 
+- 2021.7: Dr. Huang started service as Associate Editor for [ISPRS IJGI](https://www.mdpi.com/journal/ijgi), handeling manuscripts on Citizen Science, Crowd Sourcing and Volunteered Geographic Information.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+PEOPLE
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+SELECTED HONOURS
+======
+- [The U. V. Helava Award](https://www.isprs.org/society/awards/helava/2016.aspx) (Best Paper Award), International Society of Photogrammetry and Remote Sensing, 2016.
+- 1st Place PhD Best Paper Award, International Conference on Location-based Social Media Data. Athens, Georgia, USA. Mar. 13-14, 2015.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+PUBLICATIONS
+======
+- Li, H., Yuang, Z., Novack, T., **Huang, W.***, & Zip, A. (2022). [Understanding spatiotemporal motivations of urban micro-mobility from the lens of dockless e-scooter sharing](https://www.sciencedirect.com/science/article/pii/S0198971522000928). _Computers, Environment and Urban Systems_, 96, 101848.
+- Liu, C., Chen, L., Yuan, Q., Wu, H., & **Huang, W.*** (2022). [Revealing Dynamic Spatial Structures of Urban Mobility Networks and the Underlying Evolutionary Patterns](https://www.mdpi.com/2220-9964/11/4/237). _ISPRS International Journal of Geo-Information_, 11(4), 237.
+- Xu, S., Li, S., **Huang, W.**, & Wen, R. (2022). [Detecting spatiotemporal traffic events using geosocial media data](https://www.sciencedirect.com/science/article/pii/S0198971522000412). _Computers, Environment and Urban Systems_, 94, 101797.
+- Jiao, W., **Huang, W.**, & Fan, H. (2022). [Evaluating spatial accessibility to healthcare services from the lens of emergency hospital visits based on floating car data](https://www.tandfonline.com/doi/full/10.1080/17538947.2021.2014578). _International Journal of Digital Earth_, 15(1), 108-133.
+- **Huang, W.** (2022). [What Were GIScience Scholars Interested in During the Past Decades?](https://link.springer.com/article/10.1007/s41651-021-00098-3). _Journal of Geovisualization and Spatial Analysis_, 1(6):7.
+- Klumpenhouwer, W., & **Huang, W.*** (2021). [A flexible framework for measuring accessibility with destination bundling](https://www.sciencedirect.com/science/article/abs/pii/S0966692321000028). _Journal of Transport Geography_, 91, 102949.
+- Yan, Y., Feng, C. C., **Huang, W.**, Fan, H., Wang, Y. C., & Zipf, A. (2020). [Volunteered geographic information research in the first decade: a narrative review of selected journal articles in GIScience](https://www.tandfonline.com/doi/abs/10.1080/13658816.2020.1730848). _International Journal of Geographical Information Science_, 34(9), 1765-1791.
+- **Huang, W.** & Li, S. (2018). [An approach for understanding urban human activity patterns with the motivations](https://www.tandfonline.com/doi/abs/10.1080/13658816.2018.1530354). _International Journal of Geographical Information Science_, 33(2), 385-407.
+- **Huang, W.**, Xu., S., Yan, Y. & Zipf, A. (2018). [An exploration of the interaction between human activities and daily traffic conditions: A case study of Toronto, Canada](https://www.sciencedirect.com/science/article/abs/pii/S0264275118302786). _Cities_, 84, 8-22.
+- **Huang, W.**, Fan, H. & Zipf, A. (2017). [Towards detecting the crowd involved in social events](https://www.mdpi.com/2220-9964/6/10/305). _ISPRS International Journal of Geo-Information_, 6 (10), 305.
+- **Huang, W.** & Li, S. (2016). [Understanding human activity pattern based on space-time-semantics](https://www.sciencedirect.com/science/article/abs/pii/S0924271616303203). _ISPRS Journal of Photogrammetry and Remote Sensing_, 121, 1-10. (Best Paper)
+- **Huang, W.**, Sun, M. & Li, S. (2016). [A 3D GIS-based interactive registration mechanism for outdoor augmented reality system](https://www.sciencedirect.com/science/article/abs/pii/S0957417416000609). _Expert Systems with Applications_, 55, 48-58.
+- **Huang, W.**, Li, S. Liu, X., & Ban, Y. (2015). [Predicting human mobility with activity changes](https://www.tandfonline.com/doi/abs/10.1080/13658816.2015.1033421). _International Journal of Geographical Information Science_, 29 (9), 1569-1587. 
 
-**Markdown generator**
+_Please refer to my [GoogleScholar](https://scholar.google.ca/citations?user=_Xdi93IAAAAJ&hl=en) for complete pulbications._
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+TEACHING
+=====
+<h3>At Tongji, China</h3>
+<ul>
+  <li>Fall 2022: Internet GIS (undergrad), Geospatial Big Data (undergrad)</li>
+</ul>
+<h3>At Ryerson, Canada</h3>
+<ul>
+  <li>Fall 2019, 2020: CVL736-Geospatial Information Systems (undergrad)</li>
+</ul>
+<ul>
+  <li>Winter 2020: CV8501-Advanced Geospatial Information Systems (grad)</li>
+</ul>
+<h3>At Heidelberg, Germany</h3>
+<ul>
+  <li>Fall 2017: Geospatial Analysis of Geosocial Media Data (undergrad & grad)</li>
+</ul>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+TALKS
+======
+- 8/3/2020: Towards understanding the interaction between people, social events and urban mobility using data-driven methods. Nation University of Singapore. Singapore
+- 7/11/2019: Modeling and understanding how people interact with urban environments using data-driven methods. The University of Hong Kong, China
+- 7/9/2018: Modeling and understanding urban activity patterns based on crowdsourced data. University of Electronic Science and Technology of China. Chengdu, China
+- 3/5/2018: How people live, work and play in cities. Peking University. Beijing, China 
+- 1/22/2018: How people live, work and play in cities. University of Toronto. Toronto, Canada
+- 9/17/2017: Towards understanding human activity patterns based on crowdsourcing data. Wuhan University. Wuhan, China
+- 9/1/2017: Modelling intra-urban human activity patterns using crowdsourcing and geosocial media data. Heidelberg University. Heidelberg, Germany
+- 7/7/2016: Understanding human activity patterns in urban environments. New York University. New York, USA
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+MEDIA
+======
+- IJGI Webinar | The Power of Geo-Social Media,4 Apr 2022, 17:00 (CEST) (Moderator)
+[![The power of geosocial media](https://res.cloudinary.com/marcomontalbano/image/upload/v1650261951/video_to_markdown/images/youtube--qAKGnJkRYXU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/qAKGnJkRYXU "The power of geosocial media")
