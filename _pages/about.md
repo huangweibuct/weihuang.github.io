@@ -27,21 +27,21 @@ NEWS
 PEOPLE
 ======
 <h2>PhD students</h2>
-<div style="display: grid; gap: 50px; grid-template-columns: auto auto auto;justify-content: start; padding:20px">
+<div style="display: grid; gap: 50px; grid-template-columns: auto auto auto; justify-content: start; padding: 20px;">
   <div style="text-align: center; padding: 20px;">
-    <img src="images/spx.jpg" alt="Pengxiang Su" style="width: auto; height: auto;"/>
+    <img src="images/spx.jpg" alt="Pengxiang Su" style="max-width: 100%; max-height: 100px;"/>
     <figcaption>Pengxiang Su</figcaption>
   </div>
   <div style="text-align: center; padding: 20px;">
-    <img src="images/hwh.jpg" alt="Weihua Huan" style="width: auto; height: auto;"/>
+    <img src="images/hwh.jpg" alt="Weihua Huan" style="max-width: 100%; max-height: 100px;"/>
     <figcaption>Weihua Huan</figcaption>
   </div>
   <div style="text-align: center; padding: 20px;">
-    <img src="images/hch.jpg" alt="Chenghu He" style="width: auto; height: auto;"/>
+    <img src="images/hch.jpg" alt="Chenghu He" style="max-width: 100%; max-height: 100px;"/>
     <figcaption>Chenghu He</figcaption>
   </div>
   <div style="text-align: center; padding: 20px;">
-    <img src="images/lsj.jpg" alt="Shijun Lu" style="width: auto; height: auto;"/>
+    <img src="images/lsj.jpg" alt="Shijun Lu" style="max-width: 100%; max-height: 100px;"/>
     <figcaption>Shijun Lu</figcaption>
   </div>
 </div>
