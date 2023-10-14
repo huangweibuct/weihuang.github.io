@@ -46,6 +46,34 @@ PEOPLE
   </div>
 </div>
 
+<h2>Master students</h2>
+<div style="display: grid; gap: 50px; grid-template-columns: auto auto auto; justify-content: start; padding:20px">
+  <div style="text-align: center; padding: 20px;">
+    <img src="images/zyj.jpg" alt="Yanjie Zhang" style="width: auto; height: auto;"/>
+    <figcaption>Yanjie Zhang</figcaption>
+  </div>
+  <div style="text-align: center; padding: 20px;">
+    <img src="images/chy.jpg" alt="Huangying Chen" style="width: auto; height: auto;"/>
+    <figcaption>Huanying Chen</figcaption>
+  </div>
+  <div style="text-align: center; padding: 20px;">
+    <img src="images/czy.jpg" alt="Zhaoyang Chen" style="width: auto; height: auto;"/>
+    <figcaption>Zhaoyang Chen</figcaption>
+  </div>
+  <div style="text-align: center; padding: 20px;">
+    <img src="images/fhr.jpg" alt="Haoran Fang" style="width: auto; height: auto;"/>
+    <figcaption>Haoran Fang</figcaption>
+  </div>
+  <div style="text-align: center; padding: 20px;">
+    <img src="images/xyf.jpg" alt="Yifan Xu" style="width: auto; height: auto;"/>
+    <figcaption>Yifan Xu</figcaption>
+  </div>
+  <div style="text-align: center; padding: 20px;">
+    <img src="images/lzh.jpg" alt="Zehan Lin" style="width: auto; height: auto;"/>
+    <figcaption>Zehan Lin</figcaption>
+  </div>
+</div>
+
 SELECTED HONOURS
 ======
 - [The U. V. Helava Award](https://www.isprs.org/society/awards/helava/2016.aspx) (Best Paper Award), International Society of Photogrammetry and Remote Sensing, 2016.
