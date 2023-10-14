@@ -26,6 +26,25 @@ NEWS
 
 PEOPLE
 ======
+<h2>PhD students</h2>
+<div style="display: grid; gap: 50px; grid-template-columns: auto auto auto;justify-content: start; padding:20px">
+  <div style="text-align: center; padding: 20px;">
+    <img src="images/spx.jpg" alt="Pengxiang Su" style="width: auto; height: 75px;"/>
+    <figcaption>Pengxiang Su</figcaption>
+  </div>
+  <div style="text-align: center; padding: 20px;">
+    <img src="images/hwh.jpg" alt="Weihua Huan" style="width: auto; height: 75px;"/>
+    <figcaption>Weihua Huan</figcaption>
+  </div>
+  <div style="text-align: center; padding: 20px;">
+    <img src="images/hch.jpg" alt="Chenghu He" style="width: auto; height: 75px;"/>
+    <figcaption>Chenghu He</figcaption>
+  </div>
+  <div style="text-align: center; padding: 20px;">
+    <img src="images/lsj.jpg" alt="Shijun Lu" style="width: auto; height: 75px;"/>
+    <figcaption>Shijun Lu</figcaption>
+  </div>
+</div>
 
 SELECTED HONOURS
 ======
