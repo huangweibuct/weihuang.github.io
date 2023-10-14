@@ -49,27 +49,27 @@ PEOPLE
 <h2>Master students</h2>
 <div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; justify-content: start; padding:20px">
   <div style="text-align: center; padding: 20px;">
-    <img src="images/zyj.jpg" alt="Yanjie Zhang" style="width: auto; height: auto;"/>
+    <img src="images/zyj.jpg" alt="Yanjie Zhang" style="width: 100%; height: auto;"/>
     <figcaption>Yanjie Zhang</figcaption>
   </div>
   <div style="text-align: center; padding: 20px;">
-    <img src="images/chy.jpg" alt="Huangying Chen" style="width: auto; height: auto;"/>
+    <img src="images/chy.jpg" alt="Huangying Chen" style="width: 100%; height: auto;"/>
     <figcaption>Huanying Chen</figcaption>
   </div>
   <div style="text-align: center; padding: 20px;">
-    <img src="images/czy.jpg" alt="Zhaoyang Chen" style="width: auto; height: auto;"/>
+    <img src="images/czy.jpg" alt="Zhaoyang Chen" style="width: 100%; height: auto;"/>
     <figcaption>Zhaoyang Chen</figcaption>
   </div>
   <div style="text-align: center; padding: 20px;">
-    <img src="images/fhr.jpg" alt="Haoran Fang" style="width: auto; height: auto;"/>
+    <img src="images/fhr.jpg" alt="Haoran Fang" style="width: 100%; height: auto;"/>
     <figcaption>Haoran Fang</figcaption>
   </div>
   <div style="text-align: center; padding: 20px;">
-    <img src="images/xyf.jpg" alt="Yifan Xu" style="width: auto; height: auto;"/>
+    <img src="images/xyf.jpg" alt="Yifan Xu" style="width: 100%; height: auto;"/>
     <figcaption>Yifan Xu</figcaption>
   </div>
   <div style="text-align: center; padding: 20px;">
-    <img src="images/lzh.jpg" alt="Zehan Lin" style="width: auto; height: auto;"/>
+    <img src="images/lzh.jpg" alt="Zehan Lin" style="width: 100%; height: auto;"/>
     <figcaption>Zehan Lin</figcaption>
   </div>
 </div>
