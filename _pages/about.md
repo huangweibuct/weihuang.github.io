@@ -47,7 +47,7 @@ PEOPLE
 </div>
 
 <h2>Master students</h2>
-<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; justify-content: start; padding:20px">
+<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr 1fr; justify-content: start; padding:20px">
   <div style="text-align: center; padding: 20px;">
     <img src="images/zyj.jpg" alt="Yanjie Zhang" style="display: block; width: 100%; height: auto;"/>
     <figcaption>Yanjie Zhang</figcaption>
