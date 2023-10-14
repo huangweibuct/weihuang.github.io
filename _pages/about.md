@@ -27,7 +27,7 @@ NEWS
 PEOPLE
 ======
 <h2>PhD students</h2>
-<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; justify-content: start; padding: 20px;">
+<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; justify-content: start;">
   <div style="text-align: center; padding: 20px;">
     <img src="images/spx.jpg" alt="Pengxiang Su" style="display: block; width: auto; height: auto;"/>
     <figcaption>Pengxiang Su</figcaption>
