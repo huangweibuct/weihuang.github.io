@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+How can spatial big data as a tool help us better understand urban dynamics and social events?
+=
+
+I am Professor at the [Tongji University](https://celiang.tongji.edu.cn/info/1300/2388.htm) in Shanghai, China, and Adjunct Professor at [Ryerson University](https://www.ryerson.ca/), Toronto, Canada. My research interests lie at the intersection of GIScience, geography, computer science and computational social science, focusing on using GIS, geospatial big data and new sensing technologies to progress the understanding of the mechanism of the interaction between human activities, urban transportation and social events. I am the Chair of [ISPRS WG IV/6 - Human Behaviour and Sptial Interactions](https://www2.isprs.org/commissions/comm4/wg6/). I serve as Associate Editor for [ISPRS IJGI](https://www.mdpi.com/journal/ijgi).
 
 A data-driven personal website
 ======
