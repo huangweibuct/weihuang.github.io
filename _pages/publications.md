@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-PUBLICATIONS
 ======
 - Li, H., Yuang, Z., Novack, T., **Huang, W.***, & Zip, A. (2022). [Understanding spatiotemporal motivations of urban micro-mobility from the lens of dockless e-scooter sharing](https://www.sciencedirect.com/science/article/pii/S0198971522000928). _Computers, Environment and Urban Systems_, 96, 101848.
 - Liu, C., Chen, L., Yuan, Q., Wu, H., & **Huang, W.*** (2022). [Revealing Dynamic Spatial Structures of Urban Mobility Networks and the Underlying Evolutionary Patterns](https://www.mdpi.com/2220-9964/11/4/237). _ISPRS International Journal of Geo-Information_, 11(4), 237.
