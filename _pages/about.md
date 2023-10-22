@@ -17,6 +17,7 @@ From 2016 to 2018, I was Planner at the Ministry of Transportation Ontario, Cana
 
 NEWS
 ======
+- 2023.10: We are orgnizing a SI: Imagery analytics for understanding human-urban infrastructure interactions on the ISPRS Journal of Photogrammetry and Remote Sensing
 - 2023.9: Pengxiang Su Won the 2023 ISPRS Geospatial Week Best Presentation Award.
 - 2023.9: Chenghu He and Shijun Lu joined the group as PhD students, and Haoran Fang, Yifan Xu and Zehan Lin joined the group as Master students. Welcome!
 - 2022.9: Pengxiang and Weihua joined the group as PhD students, and Huanying and Zhaoyang joined the group as Master students. Welcome!
