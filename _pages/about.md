@@ -17,7 +17,7 @@ From 2016 to 2018, I was Planner at the Ministry of Transportation Ontario, Cana
 
 NEWS
 ======
-- **I have several openings for postdoc and PhD students! If you are interested in doing researching in GIS, urban science, GeoAI, or urban mobility. Please drop an email at wei_huang[at]tongji.edu.cn.**
+- **I have several openings for postdocs and PhD students! If you are interested in doing researching in GIS, urban science, GeoAI, or urban mobility. Please email your CV and one-page research proposal at wei_huang[at]tongji.edu.cn.**
 - 2023.10: We are orgnizing a SI: [Imagery analytics for understanding human-urban infrastructure interactions](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing/about/call-for-papers#imagery-analytics-for-understanding-human-urban-infrastructure-interactions) on the ISPRS Journal of Photogrammetry and Remote Sensing.
 - 2023.9: Pengxiang Su Won the 2023 ISPRS Geospatial Week Best Presentation Award.
 - 2023.9: Chenghu He and Shijun Lu joined the group as PhD students, and Haoran Fang, Yifan Xu and Zehan Lin joined the group as Master students. Welcome!
