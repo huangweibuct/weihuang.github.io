@@ -82,6 +82,7 @@ SELECTED HONOURS
 
 PUBLICATIONS
 ======
+- Zhang, Y., **Huang, W.***, Liu, X., & Zhang, F. (2024). [An approach for high definition (HD) maps information interaction for autonomous driving (in Chinese)](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20230166). _Geomatics and Information Science of Wuhan University_.
 - Li, H., Yuang, Z., Novack, T., **Huang, W.***, & Zip, A. (2022). [Understanding spatiotemporal motivations of urban micro-mobility from the lens of dockless e-scooter sharing](https://www.sciencedirect.com/science/article/pii/S0198971522000928). _Computers, Environment and Urban Systems_, 96, 101848.
 - Liu, C., Chen, L., Yuan, Q., Wu, H., & **Huang, W.*** (2022). [Revealing Dynamic Spatial Structures of Urban Mobility Networks and the Underlying Evolutionary Patterns](https://www.mdpi.com/2220-9964/11/4/237). _ISPRS International Journal of Geo-Information_, 11(4), 237.
 - Xu, S., Li, S., **Huang, W.**, & Wen, R. (2022). [Detecting spatiotemporal traffic events using geosocial media data](https://www.sciencedirect.com/science/article/pii/S0198971522000412). _Computers, Environment and Urban Systems_, 94, 101797.
