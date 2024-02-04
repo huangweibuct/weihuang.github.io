@@ -17,6 +17,7 @@ From 2016 to 2018, I was Planner at the Ministry of Transportation Ontario, Cana
 
 NEWS
 ======
+- **I have several openings for postdoc and PhD students! If you are interested in doing researching in GIS, urban science, GeoAI, or urban mobility. Please drop an email at wei_huang[at]tongji.edu.cn.**
 - 2023.10: We are orgnizing a SI: [Imagery analytics for understanding human-urban infrastructure interactions](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing/about/call-for-papers#imagery-analytics-for-understanding-human-urban-infrastructure-interactions) on the ISPRS Journal of Photogrammetry and Remote Sensing.
 - 2023.9: Pengxiang Su Won the 2023 ISPRS Geospatial Week Best Presentation Award.
 - 2023.9: Chenghu He and Shijun Lu joined the group as PhD students, and Haoran Fang, Yifan Xu and Zehan Lin joined the group as Master students. Welcome!
@@ -116,17 +117,6 @@ TEACHING
 <ul>
   <li>Fall 2017: Geospatial Analysis of Geosocial Media Data (undergrad & grad)</li>
 </ul>
-
-TALKS
-======
-- 8/3/2020: Towards understanding the interaction between people, social events and urban mobility using data-driven methods. Nation University of Singapore. Singapore
-- 7/11/2019: Modeling and understanding how people interact with urban environments using data-driven methods. The University of Hong Kong, China
-- 7/9/2018: Modeling and understanding urban activity patterns based on crowdsourced data. University of Electronic Science and Technology of China. Chengdu, China
-- 3/5/2018: How people live, work and play in cities. Peking University. Beijing, China 
-- 1/22/2018: How people live, work and play in cities. University of Toronto. Toronto, Canada
-- 9/17/2017: Towards understanding human activity patterns based on crowdsourcing data. Wuhan University. Wuhan, China
-- 9/1/2017: Modelling intra-urban human activity patterns using crowdsourcing and geosocial media data. Heidelberg University. Heidelberg, Germany
-- 7/7/2016: Understanding human activity patterns in urban environments. New York University. New York, USA
 
 MEDIA
 ======
