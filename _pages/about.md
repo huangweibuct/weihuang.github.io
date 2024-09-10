@@ -28,6 +28,11 @@ NEWS
 
 PEOPLE
 ======
+<style>
+  figurecation{
+    font-size: 20px
+  }
+<\style>
 <h2>PhD students</h2>
 <div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; justify-items: center ; justify-content: start; align-content: space-evenly;">
   <div style="text-align: center;">
@@ -45,6 +50,12 @@ PEOPLE
   <div style="text-align: center;">
     <img src="images/lsj.jpg" alt="Shijun Lu" style="display: block; width: auto; height: auto;"/>
     <figcaption>Shijun Lu</figcaption>
+  </div>
+  <div style="text-align: center;">
+    <img src="images/yla.jpg" alt="Luoan Yang" style="display: block; width: auto; height: auto;"/>
+    <a href=  "https://www.researchgate.net/profile/Luoan-Yang"
+      <figcaption>Luoan Yang</figcaption>
+    <\a>
   </div>
 </div>
 
