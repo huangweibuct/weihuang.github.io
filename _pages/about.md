@@ -49,9 +49,7 @@ PEOPLE
   </div>
   <div style="text-align: center;">
     <img src="images/yla.jpg" alt="Luoan Yang" style="display: block; width: auto; height: auto;"/>
-    <a href=  "https://www.researchgate.net/profile/Luoan-Yang"
-      <figcaption>Luoan Yang</figcaption>
-    <\a>
+      <figcaption href="https://www.researchgate.net/profile/Luoan-Yang">Luoan Yang</figcaption>
   </div>
 </div>
 
@@ -90,7 +88,8 @@ PEOPLE
     <figcaption>Yanjie Zhang</figcaption>
   </div>
 </div>
-<br>
+
+
 SELECTED HONOURS
 ======
 - [The U. V. Helava Award](https://www.isprs.org/society/awards/helava/2016.aspx) (Best Paper Award), International Society of Photogrammetry and Remote Sensing, 2016.
