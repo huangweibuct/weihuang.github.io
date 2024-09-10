@@ -51,10 +51,6 @@ PEOPLE
 <h2>Master students</h2>
 <div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; justify-content: start;">
   <div style="text-align: center;">
-    <img src="images/zyj.jpg" alt="Yanjie Zhang" style="display: block; width: auto; height: auto;"/>
-    <figcaption>Yanjie Zhang</figcaption>
-  </div>
-  <div style="text-align: center;">
     <img src="images/chy.jpg" alt="Huangying Chen" style="display: block; width: auto; height: auto;"/>
     <figcaption>Huanying Chen</figcaption>
   </div>
@@ -75,6 +71,14 @@ PEOPLE
     <figcaption>Zehan Lin</figcaption>
   </div>
 </div>
+
+<h2>Graduated students</h2>
+<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; justify-content: start;">
+  <div style="text-align: center;">
+    <img src="images/zyj.jpg" alt="Yanjie Zhang" style="display: block; width: auto; height: auto;"/>
+    <figcaption>Yanjie Zhang</figcaption>
+  </div>
+<div>
 
 SELECTED HONOURS
 ======
