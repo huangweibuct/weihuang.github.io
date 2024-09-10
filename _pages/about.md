@@ -83,7 +83,7 @@ PEOPLE
     <figcaption>Yanjie Zhang</figcaption>
   </div>
 </div>
-
+<br>
 SELECTED HONOURS
 ======
 - [The U. V. Helava Award](https://www.isprs.org/society/awards/helava/2016.aspx) (Best Paper Award), International Society of Photogrammetry and Remote Sensing, 2016.
