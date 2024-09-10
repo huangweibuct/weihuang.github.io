@@ -49,7 +49,7 @@ PEOPLE
   </div>
   <div style="text-align: center;">
     <img src="images/yla.jpg" alt="Luoan Yang" style="display: block; width: auto; height: auto;"/>
-      <figcaption href="https://www.researchgate.net/profile/Luoan-Yang">Luoan Yang</figcaption>
+      <a href="https://www.researchgate.net/profile/Luoan-Yang">Luoan Yang</a>
   </div>
 </div>
 
