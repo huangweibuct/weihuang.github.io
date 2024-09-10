@@ -33,19 +33,19 @@ PEOPLE
 <div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; justify-items: center ; justify-content: start; align-content: space-evenly;">
   <div style="text-align: center;">
     <img src="images/spx.jpg" alt="Pengxiang Su" style="display: block; width: auto; height: auto;"/>
-    <figcaption>Pengxiang Su</figcaption>
+    <a>Pengxiang Su</a>
   </div>
   <div style="text-align: center;">
     <img src="images/hwh.jpg" alt="Weihua Huan" style="display: block; width: auto; height: auto;"/>
-    <figcaption>Weihua Huan</figcaption>
+    <a>Weihua Huan</a>
   </div>
   <div style="text-align: center;;">
     <img src="images/hch.jpg" alt="Chenghu He" style="display: block; width: auto; height: auto;"/>
-    <figcaption>Chenghu He</figcaption>
+    <a>Chenghu He</a>
   </div>
   <div style="text-align: center;">
     <img src="images/lsj.jpg" alt="Shijun Lu" style="display: block; width: auto; height: auto;"/>
-    <figcaption>Shijun Lu</figcaption>
+    <a>Shijun Lu</a>
   </div>
   <div style="text-align: center;">
     <img src="images/yla.jpg" alt="Luoan Yang" style="display: block; width: auto; height: auto;"/>
@@ -57,27 +57,27 @@ PEOPLE
 <div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; justify-content: start;">
   <div style="text-align: center;">
     <img src="images/chy.jpg" alt="Huangying Chen" style="display: block; width: auto; height: auto;"/>
-    <figcaption>Huanying Chen</figcaption>
+    <a>Huanying Chen</a>
   </div>
   <div style="text-align: center;">
     <img src="images/czy.jpg" alt="Zhaoyang Chen" style="display: block; width: auto; height: auto;"/>
-    <figcaption>Zhaoyang Chen</figcaption>
+    <a>Zhaoyang Chen</a>
   </div>
   <div style="text-align: center;">
     <img src="images/fhr.jpg" alt="Haoran Fang" style="display: block; width: auto; height: auto;"/>
-    <figcaption>Haoran Fang</figcaption>
+    <a>Haoran Fang</a>
   </div>
   <div style="text-align: center;">
     <img src="images/xyf.jpg" alt="Yifan Xu" style="display: block; width: auto; height: auto;"/>
-    <figcaption>Yifan Xu</figcaption>
+    <a>Yifan Xu</a>
   </div>
   <div style="text-align: center;">
     <img src="images/lzh.jpg" alt="Zehan Lin" style="display: block; width: auto; height: auto;"/>
-    <figcaption>Zehan Lin</figcaption>
+    <a>Zehan Lin</a>
   </div>
   <div style="text-align: center;">
     <img src="images/cjl.jpg" alt="Jialiang Cao" style="display: block; width: auto; height: auto;"/>
-    <figcaption>Jialiang Cao</figcaption>
+    <a>Jialiang Cao</a>
   </div>
 </div>
 
@@ -85,7 +85,7 @@ PEOPLE
 <div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr; justify-content: start;">
   <div style="text-align: center;">
     <img src="images/zyj.jpg" alt="Yanjie Zhang" style="display: block; width: auto; height: auto;"/>
-    <figcaption>Yanjie Zhang</figcaption>
+    <a>Yanjie Zhang</a>
   </div>
 </div>
 
