@@ -77,8 +77,7 @@ PEOPLE
 </div>
 
 <h2>Graduated students</h2>
-<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; justify-content: start;">
-<div>
+
 
 SELECTED HONOURS
 ======
