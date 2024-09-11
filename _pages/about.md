@@ -54,7 +54,7 @@ PEOPLE
 </div>
 
 <h2>Master students</h2>
-<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; justify-content: start;">
+<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr 1fr; justify-content: start;">
   <div style="text-align: center;">
     <img src="images/chy.jpg" alt="Huangying Chen" style="display: block; width: auto; height: auto;"/>
     <a>Huanying Chen</a>
@@ -79,13 +79,17 @@ PEOPLE
     <img src="images/cjl.jpg" alt="Jialiang Cao" style="display: block; width: auto; height: auto;"/>
     <a>Jialiang Cao</a>
   </div>
+  <div style="text-align: center;">
+    <img src="images/jc.jpg" alt="Chen Jia" style="display: block; width: auto; height: auto;"/>
+    <a>Chen Jia</a>
+  </div>
 </div>
 
 <h2>Graduated students</h2>
 <div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr; justify-content: start;">
   <div style="text-align: center;">
     <img src="images/zyj.jpg" alt="Yanjie Zhang" style="display: block; width: auto; height: auto;"/>
-    <a>Yanjie Zhang</a>
+    <a href="https://metayj.github.io/">Yanjie Zhang</a>
   </div>
 </div>
 <p></p>
