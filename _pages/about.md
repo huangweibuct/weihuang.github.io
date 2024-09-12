@@ -51,6 +51,10 @@ PEOPLE
     <img src="images/yla.jpg" alt="Luoan Yang" style="display: block; width: auto; height: auto;"/>
       <a href="https://www.researchgate.net/profile/Luoan-Yang">Luoan Yang</a>
   </div>
+  <div style="text-align: center;">
+    <img src="images/xh.jpg" alt="Heng Xu" style="display: block; width: auto; height: auto;"/>
+      <a >Heng Xu</a>
+  </div>
 </div>
 
 <h2>Master students</h2>
@@ -80,7 +84,7 @@ PEOPLE
     <a>Jialiang Cao</a>
   </div>
   <div style="text-align: center;">
-    <img src="images/jc.jpg" alt="Chen Jia" style="display: block; width: auto; height: auto;"/>
+    <img src="images/jc.png" alt="Chen Jia" style="display: block; width: auto; height: auto;"/>
     <a>Chen Jia</a>
   </div>
 </div>
