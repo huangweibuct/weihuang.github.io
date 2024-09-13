@@ -30,7 +30,7 @@ PEOPLE
 ======
 
 <h2>PhD students</h2>
-<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; justify-items: center ; justify-content: start; align-content: space-evenly;">
+<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr 1fr; justify-items: center ; justify-content: start; align-content: space-evenly;">
   <div style="text-align: center;">
     <img src="images/spx.jpg" alt="Pengxiang Su" style="display: block; width: auto; height: auto;"/>
     <a>Pengxiang Su</a>
@@ -54,6 +54,10 @@ PEOPLE
   <div style="text-align: center;">
     <img src="images/xh.jpg" alt="Heng Xu" style="display: block; width: auto; height: auto;"/>
       <a >Heng Xu</a>
+  </div>
+  <div style="text-align: center;">
+    <img src="images/tz.jpg" alt="Zheng Tan" style="display: block; width: auto; height: auto;"/>
+      <a >Zheng Tan</a>
   </div>
 </div>
 
