@@ -84,7 +84,7 @@ PEOPLE
     <a>Zehan Lin</a>
   </div>
   <div style="text-align: center;">
-    <img src="images/cjl.jpg" alt="Jialiang Cao" style="display: block; width: auto; height: auto;"/>
+    <img src="images/cjl.png" alt="Jialiang Cao" style="display: block; width: auto; height: auto;"/>
     <a>Jialiang Cao</a>
   </div>
   <div style="text-align: center;">
