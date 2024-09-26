@@ -59,6 +59,10 @@ PEOPLE
     <img src="images/tz.jpg" alt="Zheng Tan" style="display: block; width: auto; height: auto;"/>
       <a >Zheng Tan</a>
   </div>
+  <div style="text-align: center;">
+    <img src="images/crf.jpg" alt="Runfei Chen" style="display: block; width: auto; height: auto;"/>
+      <a >Runfei Chen</a>
+  </div>
 </div>
 
 <h2>Master students</h2>
