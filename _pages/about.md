@@ -18,7 +18,7 @@ From 2016 to 2018, I was Planner at the Ministry of Transportation Ontario, Cana
 NEWS
 ======
 - **I have several openings for postdocs and PhD students! If you are interested in doing research in GIS, urban science, GeoAI, or urban mobility. Please email your CV and one-page research proposal at wei_huang[at]tongji.edu.cn.**
-- 2025.11: We will hold 2nd International Workshop on Geo-spatial Computing for Understanding Human Behaviors in Tongji University, Shanghai, China.
+- **2025.11: We will hold 2nd International Workshop on Geo-spatial Computing for Understanding Human Behaviors in Tongji University, Shanghai, China.**
 - 2023.10: We are orgnizing a SI: [Imagery analytics for understanding human-urban infrastructure interactions](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing/about/call-for-papers#imagery-analytics-for-understanding-human-urban-infrastructure-interactions) on the ISPRS Journal of Photogrammetry and Remote Sensing.
 - 2023.9: Pengxiang Su Won the 2023 ISPRS Geospatial Week Best Presentation Award.
 - 2023.9: Chenghu He and Shijun Lu joined the group as PhD students, and Haoran Fang, Yifan Xu and Zehan Lin joined the group as Master students. Welcome!
@@ -64,6 +64,10 @@ PEOPLE
     <img src="images/crf.jpg" alt="Runfei Chen" style="display: block; width: auto; height: auto;"/>
       <a >Runfei Chen</a>
   </div>
+  <div style="text-align: center;">
+    <img src="images/crf.jpg" alt="Runfei Chen" style="display: block; width: auto; height: auto;"/>
+      <a >Jiaming Chen</a>
+  </div>
 </div>
 
 <h2>Master students</h2>
@@ -91,20 +95,9 @@ PEOPLE
 </div>
 
 <h2>Graduated students</h2>
-<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr; justify-content: start;">
-  <div style="text-align: center;">
-    <img src="images/zyj.jpg" alt="Yanjie Zhang" style="display: block; width: auto; height: auto;"/>
-    <a href="https://metayj.github.io/">Yanjie Zhang</a>
-  </div>
-    <div style="text-align: center;">
-    <img src="images/chy.jpg" alt="Huangying Chen" style="display: block; width: auto; height: auto;"/>
-    <a>Huanying Chen</a>
-  </div>
-  <div style="text-align: center;">
-    <img src="images/czy.jpg" alt="Zhaoyang Chen" style="display: block; width: auto; height: auto;"/>
-    <a>Zhaoyang Chen</a>
-  </div>
-</div>
+- Yanjie Zhang, National University of Singapore, Phd candidate.
+- Huanyin Chen, Wuhan University, Phd candidate.
+- Zhaoyang Chen, 
 <p></p>
 
 SELECTED HONOURS
