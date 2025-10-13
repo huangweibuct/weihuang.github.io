@@ -65,7 +65,7 @@ PEOPLE
       <a >Runfei Chen</a>
   </div>
   <div style="text-align: center;">
-    <img src="images/crf.jpg" alt="Runfei Chen" style="display: block; width: auto; height: auto;"/>
+    <img src="images/cjm.jpg" alt="Jiaming Chen" style="display: block; width: auto; height: auto;"/>
       <a >Jiaming Chen</a>
   </div>
 </div>
@@ -95,10 +95,15 @@ PEOPLE
 </div>
 
 <h2>Graduated students</h2>
-- Yanjie Zhang, National University of Singapore, Phd candidate.
-- Huanyin Chen, Wuhan University, Phd candidate.
-- Zhaoyang Chen, 
-<p></p>
+<p>
+  Yanjie Zhang, National University of Singapore, Phd candidate.
+</p>
+<p>
+  Huanyin Chen, Wuhan University, Phd candidate.
+</p>
+<p>
+  Zhaoyang Chen, 
+</p>
 
 SELECTED HONOURS
 ======
