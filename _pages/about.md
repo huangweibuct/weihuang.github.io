@@ -30,8 +30,7 @@ NEWS
 PEOPLE
 ======
 
-PhD students
-======
+<h2>PhD students</h2>
 
 <div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr 1fr; justify-items: center ; justify-content: start; align-content: space-evenly;">
   <div style="text-align: center;">
@@ -72,8 +71,7 @@ PhD students
   </div>
 </div>
 
-Master students
-======
+<h2>Master students</h2>
 
 <div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; justify-content: start;">
   <div style="text-align: center;">
@@ -98,11 +96,11 @@ Master students
   </div>
 </div>
 
-Graduated students
-======
-- Yanjie Zhang, National University of Singapore, Phd candidate.
-- Huanyin Chen, Wuhan University, Phd candidate.
-- Zhaoyang Chen, Chinalco Shuwei (Chengdu) Technology Co., LTD
+<h2>Graduated students</h2>
+
+<p>Yanjie Zhang, National University of Singapore, Phd candidate.</p>
+<p>Huanyin Chen, Wuhan University, Phd candidate.</p>
+<p>Zhaoyang Chen, Chinalco Shuwei (Chengdu) Technology Co., LTD</p>
 
 SELECTED HONOURS
 ======
