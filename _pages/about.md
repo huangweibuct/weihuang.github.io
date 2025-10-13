@@ -75,7 +75,7 @@ PhD students
 Master students
 ======
 
-<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr 1fr; justify-content: start;">
+<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr; justify-content: start;">
   <div style="text-align: center;">
     <img src="images/fhr.jpg" alt="Haoran Fang" style="display: block; width: auto; height: auto;"/>
     <a>Haoran Fang</a>
