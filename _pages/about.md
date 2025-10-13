@@ -102,7 +102,7 @@ Graduated students
 ======
 - Yanjie Zhang, National University of Singapore, Phd candidate.
 - Huanyin Chen, Wuhan University, Phd candidate.
-- Zhaoyang Chen, 
+- Zhaoyang Chen, Chinalco Shuwei (Chengdu) Technology Co., LTD
 
 SELECTED HONOURS
 ======
