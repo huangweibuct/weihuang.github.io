@@ -18,6 +18,7 @@ From 2016 to 2018, I was Planner at the Ministry of Transportation Ontario, Cana
 NEWS
 ======
 - **I have several openings for postdocs and PhD students! If you are interested in doing research in GIS, urban science, GeoAI, or urban mobility. Please email your CV and one-page research proposal at wei_huang[at]tongji.edu.cn.**
+- 2025.11: We will hold 2nd International Workshop on Geo-spatial Computing for Understanding Human Behaviors in Tongji University, Shanghai, China.
 - 2023.10: We are orgnizing a SI: [Imagery analytics for understanding human-urban infrastructure interactions](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing/about/call-for-papers#imagery-analytics-for-understanding-human-urban-infrastructure-interactions) on the ISPRS Journal of Photogrammetry and Remote Sensing.
 - 2023.9: Pengxiang Su Won the 2023 ISPRS Geospatial Week Best Presentation Award.
 - 2023.9: Chenghu He and Shijun Lu joined the group as PhD students, and Haoran Fang, Yifan Xu and Zehan Lin joined the group as Master students. Welcome!
@@ -68,14 +69,6 @@ PEOPLE
 <h2>Master students</h2>
 <div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr 1fr; justify-content: start;">
   <div style="text-align: center;">
-    <img src="images/chy.jpg" alt="Huangying Chen" style="display: block; width: auto; height: auto;"/>
-    <a>Huanying Chen</a>
-  </div>
-  <div style="text-align: center;">
-    <img src="images/czy.jpg" alt="Zhaoyang Chen" style="display: block; width: auto; height: auto;"/>
-    <a>Zhaoyang Chen</a>
-  </div>
-  <div style="text-align: center;">
     <img src="images/fhr.jpg" alt="Haoran Fang" style="display: block; width: auto; height: auto;"/>
     <a>Haoran Fang</a>
   </div>
@@ -103,6 +96,14 @@ PEOPLE
     <img src="images/zyj.jpg" alt="Yanjie Zhang" style="display: block; width: auto; height: auto;"/>
     <a href="https://metayj.github.io/">Yanjie Zhang</a>
   </div>
+    <div style="text-align: center;">
+    <img src="images/chy.jpg" alt="Huangying Chen" style="display: block; width: auto; height: auto;"/>
+    <a>Huanying Chen</a>
+  </div>
+  <div style="text-align: center;">
+    <img src="images/czy.jpg" alt="Zhaoyang Chen" style="display: block; width: auto; height: auto;"/>
+    <a>Zhaoyang Chen</a>
+  </div>
 </div>
 <p></p>
 
@@ -113,6 +114,11 @@ SELECTED HONOURS
 
 PUBLICATIONS
 ======
+- Yang, L., **Huang, W.***, Liu, X., & Yan, W. (2025). [Wheelchair accessibility to public facilities via transits and analysis of delay factors—A case study of Shanghai, China.](https://doi.org/10.1016/j.compenvurbsys.2025.102331). _Computers, Environment and Urban Systems_, 121, 102331.
+- Yifan Xu, **Wei Huang***, Junhua Xiao, Jie Shan, Mengbo Liu, Weian Guo, Yushan Zhu, Jing Zhang, Yu Yan. (2026). [A WebGIS-based digital twin platform for intelligent operation and maintenance of rail transit infrastructure.](https://www.sciencedirect.com/science/article/pii/S0957417425027964). _Expert Systems with Applications_, Volume 296, Part D, 129180.
+- Huan, W., Li, S., Liu, X., Wu, H., Diao, M., Li, H., **Huang, W***. (2025). [Correlation and causality between traffic congestion and the built environment: a case study in New York city](https://doi.org/10.1080/17538947.2025.2548377). _International Journal of Digital Earth_, 18(2).
+- Pengxiang Su, Yingwei Yan, Hao Li, Hangbin Wu, Chun Liu, **Wei Huang***. (2025). [Images and deep learning in human and urban infrastructure interactions pertinent to sustainable urban studies: Review and perspective](https://doi.org/10.1016/j.jag.2024.104352). _Journal of Applied Earth Observation and Geoinformation_, Volume 136, 2025, 104352.
+- Chen, H., Liu, X., Li, S., Grinberger, A. Y., Wu, H., Liu, C., & **Huang, W***. (2025). [Spatiotemporal dynamics of violence in social unrest events based on geo-social media data](https://doi.org/10.1177/23998083251344354). _Environment and Planning B: Urban Analytics and City Science_ 0(0). 
 - Zhang, Y., **Huang, W.***, Liu, X., & Zhang, F. (2024). [An approach for high definition (HD) maps information interaction for autonomous driving (in Chinese)](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20230166). _Geomatics and Information Science of Wuhan University_.
 - Li, H., Yuang, Z., Novack, T., **Huang, W.***, & Zip, A. (2022). [Understanding spatiotemporal motivations of urban micro-mobility from the lens of dockless e-scooter sharing](https://www.sciencedirect.com/science/article/pii/S0198971522000928). _Computers, Environment and Urban Systems_, 96, 101848.
 - Liu, C., Chen, L., Yuan, Q., Wu, H., & **Huang, W.*** (2022). [Revealing Dynamic Spatial Structures of Urban Mobility Networks and the Underlying Evolutionary Patterns](https://www.mdpi.com/2220-9964/11/4/237). _ISPRS International Journal of Geo-Information_, 11(4), 237.
