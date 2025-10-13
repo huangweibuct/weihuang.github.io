@@ -93,7 +93,6 @@ PEOPLE
     <a>Chen Jia</a>
   </div>
 </div>
-
 <h2>Graduated students</h2>
 <p>
   Yanjie Zhang, National University of Singapore, Phd candidate.
@@ -113,9 +112,9 @@ SELECTED HONOURS
 PUBLICATIONS
 ======
 - Yang, L., **Huang, W.***, Liu, X., & Yan, W. (2025). [Wheelchair accessibility to public facilities via transits and analysis of delay factors—A case study of Shanghai, China.](https://doi.org/10.1016/j.compenvurbsys.2025.102331). _Computers, Environment and Urban Systems_, 121, 102331.
-- Yifan Xu, **Wei Huang***, Junhua Xiao, Jie Shan, Mengbo Liu, Weian Guo, Yushan Zhu, Jing Zhang, Yu Yan. (2026). [A WebGIS-based digital twin platform for intelligent operation and maintenance of rail transit infrastructure.](https://www.sciencedirect.com/science/article/pii/S0957417425027964). _Expert Systems with Applications_, Volume 296, Part D, 129180.
+- Yifan Xu, **Huang, W***, Junhua Xiao, Jie Shan, Mengbo Liu, Weian Guo, Yushan Zhu, Jing Zhang, Yu Yan. (2026). [A WebGIS-based digital twin platform for intelligent operation and maintenance of rail transit infrastructure.](https://www.sciencedirect.com/science/article/pii/S0957417425027964). _Expert Systems with Applications_, Volume 296, Part D, 129180.
 - Huan, W., Li, S., Liu, X., Wu, H., Diao, M., Li, H., **Huang, W***. (2025). [Correlation and causality between traffic congestion and the built environment: a case study in New York city](https://doi.org/10.1080/17538947.2025.2548377). _International Journal of Digital Earth_, 18(2).
-- Pengxiang Su, Yingwei Yan, Hao Li, Hangbin Wu, Chun Liu, **Wei Huang***. (2025). [Images and deep learning in human and urban infrastructure interactions pertinent to sustainable urban studies: Review and perspective](https://doi.org/10.1016/j.jag.2024.104352). _Journal of Applied Earth Observation and Geoinformation_, Volume 136, 2025, 104352.
+- Pengxiang Su, Yingwei Yan, Hao Li, Hangbin Wu, Chun Liu, **Huang, W***. (2025). [Images and deep learning in human and urban infrastructure interactions pertinent to sustainable urban studies: Review and perspective](https://doi.org/10.1016/j.jag.2024.104352). _Journal of Applied Earth Observation and Geoinformation_, Volume 136, 2025, 104352.
 - Chen, H., Liu, X., Li, S., Grinberger, A. Y., Wu, H., Liu, C., & **Huang, W***. (2025). [Spatiotemporal dynamics of violence in social unrest events based on geo-social media data](https://doi.org/10.1177/23998083251344354). _Environment and Planning B: Urban Analytics and City Science_ 0(0). 
 - Zhang, Y., **Huang, W.***, Liu, X., & Zhang, F. (2024). [An approach for high definition (HD) maps information interaction for autonomous driving (in Chinese)](http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20230166). _Geomatics and Information Science of Wuhan University_.
 - Li, H., Yuang, Z., Novack, T., **Huang, W.***, & Zip, A. (2022). [Understanding spatiotemporal motivations of urban micro-mobility from the lens of dockless e-scooter sharing](https://www.sciencedirect.com/science/article/pii/S0198971522000928). _Computers, Environment and Urban Systems_, 96, 101848.
