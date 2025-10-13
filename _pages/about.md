@@ -30,7 +30,9 @@ NEWS
 PEOPLE
 ======
 
-<h2>PhD students</h2>
+PhD students
+======
+
 <div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr 1fr; justify-items: center ; justify-content: start; align-content: space-evenly;">
   <div style="text-align: center;">
     <img src="images/spx.jpg" alt="Pengxiang Su" style="display: block; width: auto; height: auto;"/>
@@ -70,7 +72,9 @@ PEOPLE
   </div>
 </div>
 
-<h2>Master students</h2>
+Master students
+======
+
 <div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr 1fr 1fr; justify-content: start;">
   <div style="text-align: center;">
     <img src="images/fhr.jpg" alt="Haoran Fang" style="display: block; width: auto; height: auto;"/>
@@ -93,16 +97,12 @@ PEOPLE
     <a>Chen Jia</a>
   </div>
 </div>
-<h2>Graduated students</h2>
-<p>
-  Yanjie Zhang, National University of Singapore, Phd candidate.
-</p>
-<p>
-  Huanyin Chen, Wuhan University, Phd candidate.
-</p>
-<p>
-  Zhaoyang Chen, 
-</p>
+
+Graduated students
+======
+- Yanjie Zhang, National University of Singapore, Phd candidate.
+- Huanyin Chen, Wuhan University, Phd candidate.
+- Zhaoyang Chen, 
 
 SELECTED HONOURS
 ======
