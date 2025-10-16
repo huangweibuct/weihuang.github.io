@@ -98,9 +98,9 @@ PEOPLE
 
 <h2>Alumni</h2>
 
-<p>\[Yanjie Zhang](https://metayj.github.io/) (MS 2024), PhD@National University of Singapore.</p>
-<p>Huanyin Chen (MS 2024), PhD@Wuhan University.</p>
-<p>Zhaoyang Chen (MS 2024), Chinalco Shuwei (Chengdu) Technology Co., LTD</p>
+- [Yanjie Zhang](https://metayj.github.io/) (MS 2024), PhD@National University of Singapore
+- Huanyin Chen (MS 2024), PhD@Wuhan University
+- Zhaoyang Chen (MS 2024), Chinalco Shuwei (Chengdu) Technology Co., LTD
 
 SELECTED HONOURS
 ======
