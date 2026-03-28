@@ -32,7 +32,7 @@ PEOPLE
 
 <h2>Postdoctoral researcher</h2>
 
-<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr; justify-items: center ; justify-content: start; align-content: space-evenly;">
+<div style="display: grid; gap: 50px; grid-template-columns: 1fr 1fr 1fr; grid-template-rows: 1fr; justify-items: center ; justify-content: start; align-content: space-evenly;">
   <div style="text-align: center;">
     <img src="images/syl.jpg" alt="Yulan Sheng" style="display: block; width: auto; height: auto;"/>
     <a href="https://www.researchgate.net/profile/Yulan-Sheng"> Yulan Sheng</a>
