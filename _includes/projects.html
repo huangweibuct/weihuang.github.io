@@ -7,12 +7,13 @@
   code, paper, data, docs, tags.
 {% endcomment %}
 {% if site.data.projects %}
+{% include base_path %}
 <div class="projects-grid">
   {% for project in site.data.projects.projects %}
   <div class="project-card">
     {% if project.image %}
     <div class="project-card__media">
-      <img src="{{ '/images/' | append: project.image | relative_url }}" alt="{{ project.name }}" loading="lazy">
+      <img src="{{ base_path }}/images/{{ project.image }}" alt="{{ project.name }}" loading="lazy">
       <span class="project-card__overlay">{{ project.name }}</span>
     </div>
     {% else %}
