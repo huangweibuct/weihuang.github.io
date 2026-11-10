@@ -1,17 +1,35 @@
 {% comment %}
-  First item of the News list: recruitment info auto-synced from the
-  Tongji faculty page (scripts/sync_tongji.py). Rendered as markdown so it
-  participates in the surrounding News list. Chinese source phrases are
-  translated via the mappings below.
+  First item(s) of the News list: recruitment info auto-synced from the
+  Tongji faculty page (scripts/sync_tongji.py). about.md provides the
+  leading dash of the first line; this include emits the remaining lines.
+  Whitespace is strictly controlled so kramdown keeps everything in one
+  list. Chinese source phrases are translated via the mappings below;
+  unknown phrases fall back to the original Chinese.
 {% endcomment %}
-{% if site.data.tongji %}
-{% assign t = site.data.tongji %}
-**Recruitment** &mdash; {% for entry in t.sections.recruitment %}{% if entry.text contains '如果你对' %}Prospective PhD and Master students, as well as undergraduate interns, interested in embodied intelligence, urban spatial intelligence, urban human activity pattern mining, and human&ndash;machine&ndash;environment interaction are all welcome to apply.{% endif %}{% endfor %}
-{% for entry in t.sections.recruitment %}
-{% assign line = entry.text %}
-{% assign first = line | slice: 0, 1 %}
-{% if line contains '拟招收' %}- {{ line | remove: '【NEW！！】' | replace: '拟招收', 'Openings for ' | replace: '级博士研究生', '-intake PhD students: ' | replace: '名，研究方向：', ' positions. Research directions:' | strip }}
-{% elsif first == '1' or first == '2' %}  {{ line | strip }}
-{% endif %}
-{% endfor %}
-{% endif %}
+{%- if site.data.tongji -%}
+{%- assign t = site.data.tongji -%}
+{%- assign out = "" | split: "" -%}
+{%- assign intro = "" -%}
+{%- for entry in t.sections.recruitment -%}
+{%- assign line = entry.text | strip -%}
+{%- if line contains '如果你对' -%}
+{%- assign intro = "Prospective PhD and Master students, as well as undergraduate interns, interested in embodied intelligence, urban spatial intelligence, urban human activity pattern mining, and human&ndash;machine&ndash;environment interaction are all welcome to apply." -%}
+{%- endif -%}
+{%- endfor -%}
+{%- assign head = "**Recruitment** &mdash; " | append: intro -%}
+{%- assign out = out | push: head -%}
+{%- for entry in t.sections.recruitment -%}
+{%- assign line = entry.text | strip -%}
+{%- assign first = line | slice: 0, 1 -%}
+{%- if line contains '拟招收' -%}
+{%- assign l2 = line | remove: '【NEW！！】' | lstrip | replace: '拟招收', 'Openings for ' | replace: '级博士研究生', '-intake PhD students: ' | replace: '名，研究方向：', ' positions. Research directions:' | prepend: '- ' -%}
+{%- assign out = out | push: l2 -%}
+{%- elsif first == '1' or first == '2' -%}
+{%- assign l2 = line | remove: '【NEW！！】' | replace: '城市行人空间多模态智能理解AI模型研究', 'Multimodal AI models for understanding urban pedestrian space' | replace: '城市环境与人类日常出行行为的交互研究', 'Interaction between urban environments and everyday human travel behavior' | prepend: '  ' -%}
+{%- assign out = out | push: l2 -%}
+{%- endif -%}
+{%- endfor -%}
+{%- for l in out -%}
+{{ l }}
+{% endfor -%}
+{%- endif -%}
